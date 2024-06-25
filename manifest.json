@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "webimon",
+    "description": "webimon, digimon fan game for chrome extension",
+    "version": "1.0",
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "images/webimon_icon-16.png"
+    },
+    "icons": {
+      "16" : "images/webimon_icon-16.png",
+      "32" : "images/webimon_icon-32.png"
+    }
+  }
